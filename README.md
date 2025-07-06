@@ -1,1 +1,2 @@
-This is the description of my repo
+## GitHub Branching Practice
+Objective: Practice Git branching and merging
